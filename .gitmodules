@@ -1,0 +1,6 @@
+[submodule "docs-www"]
+	path = docs-www
+	url = https://github.com/marekbrainhub/gatsby-docs-kit-starter
+[submodule "docs"]
+	path = docs
+	url = https://github.com/marekbrainhub/hadron-docs-markdown
